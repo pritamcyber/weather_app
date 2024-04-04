@@ -1,0 +1,1 @@
+current_time,str(days[int(day)]),str(mydate),datee
